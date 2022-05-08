@@ -105,7 +105,8 @@ C. _Electron. Struct._, **2022**, 4: 014012, [DOI:10.1088/2516-1075/ac59ca](http
 # Acknowledgement
 
 We thank the financial supports from **Vetenskapsrådet (VR)**, **the
-European Research Council (ERC)** and **Uppsala University (UU)**.
+European Research Council (ERC)** and **Uppsala University (UU)**.  
+We have the joint Friday seminar with the [TEOROO](http://www.teoroo.kemi.uu.se) group.
 
 
 ![Funding](/assets/img/Logo_banner.png)
