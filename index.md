@@ -34,7 +34,7 @@ A realistic representation of an electrochemical interface requires
 treating electronic, structural, and dynamic properties on an equal
 footing. Density-functional theory-based molecular dynamics (DFTMD) method is perhaps the only approach that can provide a consistent atomistic description. However, the challenge for DFTMD modeling of material’s interfacial dielectrics is the slow convergence of the polarization P, where P is a central quantity to connect all dielectric properties of an interface.
 
-Our contribution in this area is the development of finite field MD simulation techniques for computing electrical properties (such as the dielectric constant of polar liquids and the Helmholtz capacitance of solid-electrolyte interfaces) [1-3]. Its DFTMD implementation is available in one of our community codes CP2K ([www.cp2k.org](www.cp2k.org)).
+Our contribution in this area is the development of finite field MD simulation techniques for computing electrical properties (such as the dielectric constant of polar liquids and the Helmholtz capacitance of solid-electrolyte interfaces) [1-3]. Its DFTMD implementation is available in one of our community codes CP2K ([www.cp2k.org](https://www.cp2k.org)).
 
 ## :bulb:  Simulating charge transport in battery electrolytes
 
