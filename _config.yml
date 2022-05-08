@@ -1,3 +1,8 @@
+title: TeC group @ UU
+logo: /assets/img/TEC_logo.png
+description: Atomistic simulation of electrochemical systems with physics and ML
+google_analytics:
 theme: jekyll-theme-minimal
-title: The TeC group webpage
-description: We are working on the atomistic simulation of electrochemical systems.
+plugins:
+  - jemoji
+  - jekyll-seo-tag
