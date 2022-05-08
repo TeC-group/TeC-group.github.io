@@ -80,7 +80,7 @@ powered by ML models.
 
 [8] Shao, Y., Hellström<sup>*</sup>, M., Mitev, P. D., Knijff, L. and Zhang<sup>*</sup>, C. _J. Chem. Inf. Model._, **2020**, 60: 1184, [DOI: 10.1021/acs.jcim.9b00994](https://doi.org/10.1021/acs.jcim.9b00994)
 
-[9] Knijff, L. and Zhang<sup>*</sup>, C. _Mach. Learn.: Sci. Technol._, 2021, 2: 03LT03, [DOI: 10.1088/2632-2153/ac0123](https://doi.org/10.1088/2632-2153/ac0123) (Letter)
+[9] Knijff, L. and Zhang<sup>*</sup>, C. _Mach. Learn.: Sci. Technol._, **2021**, 2: 03LT03, [DOI: 10.1088/2632-2153/ac0123](https://doi.org/10.1088/2632-2153/ac0123) (Letter)
 
 [10] Shao<sup>†</sup>, Y., Andersson<sup>†</sup>, L., Knijff, L. and Zhang<sup>*</sup>,
 C. _Electron. Struct._, **2022**, 4: 014012, [DOI:10.1088/2516-1075/ac59ca](https://doi.org/10.1088/2516-1075/ac59ca)
