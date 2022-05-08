@@ -20,9 +20,10 @@ storage and conversion.
 |[Chao Zhang ](https://katalog.uu.se/profile/?id=N17-1304)  |  PI  | chao.zhang@TeC | 
 |[Yunqi Shao ](https://katalog.uu.se/profile/?id=N18-2059) | PhD student | yunqi.shao@TeC | Liquid and polymer electrolyte |
 |[Harish Gudla](https://katalog.uu.se/profile/?id=N18-2177) | PhD student | harish.gudla@TeC | Polymer electrolyte (with Daniel Brandell)|
-|[Lisanne Knijff](https://katalog.uu.se/profile/?id=N19-1351) | PhD student | lisanne.knijff@TeC | Electrified interface |
-|[Linnéa Andersson](https://katalog.uu.se/empinfo/?id=N21-323)| PhD student | linnea.andersson@TeC | Electrified interface |
-|[Thomas Dufils](https://katalog.uu.se/profile/?id=N21-1716) | Postdoc | thomas.dufils@TeC | Electrified interface |
+|[Lisanne Knijff](https://katalog.uu.se/profile/?id=N19-1351) | PhD student | lisanne.knijff@TeC | oxide/electrolyte interface |
+|[Linnéa Andersson](https://katalog.uu.se/empinfo/?id=N21-323)| PhD student | linnea.andersson@TeC | metal/electrolyte interface |
+|[Thomas Dufils](https://katalog.uu.se/profile/?id=N21-1716) | Postdoc | thomas.dufils@TeC | graphene/electrolyte interface |
+|[Albert Pettersson](https://katalog.uu.se/profile/?id=N22-270) | Master student | albert.pettersson@TeC | graphene/electrolyte interface |
 
 :warning:  Replace "TeC" with "kemi.uu.se"
 
