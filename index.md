@@ -91,6 +91,7 @@ C. _Electron. Struct._, **2022**, 4: 014012, [DOI:10.1088/2516-1075/ac59ca](http
 |Name             |  Country | Role  |  Current Position/Location |
 |:-------------|:------------------|
 |Yong Li  |  :cn: | Postdoc  | Postdoc@UU (Sweden)|
+|Majid Shahbabaei | :iran: | Postdoc | Assistant professor@BNUT (Iran) | 
 |Omar Malik | :united_arab_emirates:| Summer intern | Master student@UU (Sweden) |
 |Linnéa Andersson | :sweden: | Research assistant | PhD student@UU (Sweden) |
 |Florian Dietrich | :de: | Master student | PhD student@UCL (UK)|
@@ -98,7 +99,7 @@ C. _Electron. Struct._, **2022**, 4: 014012, [DOI:10.1088/2516-1075/ac59ca](http
 |Lisanne Knijff | :netherlands: | Master student | PhD student@UU (Sweden)|
 |Supho Phunnarungsi | :thailand: | Summer intern | Bangkok (Thailand) |
 |Shuang Han |:cn:| Master student | PhD student@DTU (Denmark)|
-|Are Yllö | :sweden: |  Master student | Research Engineer@Sandvik Coromant (Sweden)|
+|Are Yllö | :sweden: |  Master student | Research engineer@Sandvik Coromant (Sweden)|
 |Thomas Sayer| :uk: | Visiting PhD student | Postdoc@CUBoulder (US) |
 
 # Acknowledgement
