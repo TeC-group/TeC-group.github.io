@@ -7,7 +7,7 @@ We are a computational group based in Uppsala,
 working on "The physical chemistry of ionically  
 conducting solutions" and "The physical chemistry  
 of electrically charged interfaces" for energy  
-storage and conversion.
+storage applications.
 ```
 
 ![group_photo](/assets/img/Group_photo_June_2021.jpg)
