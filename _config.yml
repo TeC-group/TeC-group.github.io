@@ -3,6 +3,8 @@ logo: /assets/img/TEC_logo.png
 description: Atomistic simulation of electrochemical systems with physics and ML
 google_analytics:
 theme: jekyll-theme-minimal
+github:
+  is_project_page: false
 plugins:
   - jemoji
   - jekyll-seo-tag
