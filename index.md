@@ -29,7 +29,7 @@ storage applications.
 
 # Research directions
 
-## :bulb:  Modeling electrochemical interfaces with finite field MD
+## ::dart:  Modeling electrochemical interfaces with finite field MD
 
 A realistic representation of an electrochemical interface requires
 treating electronic, structural, and dynamic properties on an equal
@@ -37,13 +37,13 @@ footing. Density-functional theory-based molecular dynamics (DFTMD) method is pe
 
 Our contribution in this area is the development of finite field MD simulation techniques for computing electrical properties (such as the dielectric constant of polar liquids and the Helmholtz capacitance of solid-electrolyte interfaces) [1-3]. Its DFTMD implementation is available in one of our community codes CP2K ([www.cp2k.org](https://www.cp2k.org)).
 
-## :bulb:  Simulating charge transport in battery electrolytes
+## ::dart:  Simulating charge transport in battery electrolytes
 
 Lithium batteries are electrochemical devices that involve multiple time-scale and length-scale to achieve their optimal performance and safety requirement. In terms of the electrolyte which serves as the ionic conductor, a molecular-level understanding of the corresponding transport phenomenon is crucial for rational design.
 
 Currently, we are working on MD simulations of ionic conductivity and other transport coefficients, e.g. transference number, in different types of electrolytes from aqueous electrolytes to polymer electrolytes (with Daniel Brandell) which are relevant to battery applications [4-6].
 
-## :bulb:  Developing atomistic machine learning for electrochemistry
+## ::dart:  Developing atomistic machine learning for electrochemistry
 
 Machine learning (ML) is becoming increasingly important in computational chemistry and materials discovery. Atomic neural networks (ANN), which constitute a class of ML methods, have been very successful in predicting physicochemical properties and approximating potential energy surfaces.
 
