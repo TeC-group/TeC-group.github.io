@@ -21,9 +21,9 @@ storage applications.
 |[Yunqi Shao ](https://katalog.uu.se/profile/?id=N18-2059) | PhD student | yunqi.shao@TeC | liquid and polymer electrolytes |
 |[Harish Gudla](https://katalog.uu.se/profile/?id=N18-2177) | Postdoc | harish.gudla@TeC | self-healing polymers (with Kristina Edström)|
 |[Lisanne Knijff](https://katalog.uu.se/profile/?id=N19-1351) | PhD student | lisanne.knijff@TeC | metal-oxide/electrolyte interfaces |
-|[Linnéa Andersson](https://katalog.uu.se/empinfo/?id=N21-323)| PhD student | linnea.andersson@TeC | metal/electrolyte interfaces |
+|[Linnéa Andersson](https://katalog.uu.se/profile/?id=N21-323)| PhD student | linnea.andersson@TeC | metal/electrolyte interfaces |
 |[Thomas Dufils](https://katalog.uu.se/profile/?id=N21-1716) | Postdoc | thomas.dufils@TeC | graphene-oxide/electrolyte interfaces |
-|[Aishwarya Sudhama](https://www.katalog.uu.se/empinfo/?id=N22-2260) | PhD student | aishwarya.sudhama@TeC | metal-oxide/electrolyte interfaces |
+|[Aishwarya Sudhama](https://www.katalog.uu.se/profile/?id=N22-2260) | PhD student | aishwarya.sudhama@TeC | metal-oxide/electrolyte interfaces |
 
 :warning:  Replace "TeC" with "kemi.uu.se"
 
