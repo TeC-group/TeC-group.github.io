@@ -90,7 +90,7 @@ C. _Electron. Struct._, **2022**, 4: 014012, [DOI:10.1088/2516-1075/ac59ca](http
 
 |Name             |  Country | Role  |  Current Position/Location |
 |:-------------|:------------------|
-|Harish Gudla  |  :india: | PhD student  | Postdoc@UU (Sweden)|
+|Harish Gudla  |  :india: | PhD student (with Daniel Brandell)  | Postdoc@UU (Sweden)|
 |Alexandros Zantis | :cyprus: | Summer intern | Master student@UU (Sweden) |
 |Albert Pettersson | :sweden: | Master student | Chemical engineer@Sandvik Materials Technology (Sweden) |
 |Yong Li  |  :cn: | Postdoc  | Postdoc@UU (Sweden)|
