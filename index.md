@@ -19,11 +19,11 @@ storage applications.
 |:-------------|:------------------|:------|
 |[Chao Zhang ](https://katalog.uu.se/profile/?id=N17-1304)  |  PI  | chao.zhang@TeC | 
 |[Yunqi Shao ](https://katalog.uu.se/profile/?id=N18-2059) | PhD student | yunqi.shao@TeC | Liquid and polymer electrolyte |
-|[Harish Gudla](https://katalog.uu.se/profile/?id=N18-2177) | PhD student | harish.gudla@TeC | Polymer electrolyte (with Daniel Brandell)|
+|[Harish Gudla](https://katalog.uu.se/profile/?id=N18-2177) | Postdoc | harish.gudla@TeC | Self-healing polymer (with Kristina Edström)|
 |[Lisanne Knijff](https://katalog.uu.se/profile/?id=N19-1351) | PhD student | lisanne.knijff@TeC | oxide/electrolyte interface |
 |[Linnéa Andersson](https://katalog.uu.se/empinfo/?id=N21-323)| PhD student | linnea.andersson@TeC | metal/electrolyte interface |
 |[Thomas Dufils](https://katalog.uu.se/profile/?id=N21-1716) | Postdoc | thomas.dufils@TeC | graphene/electrolyte interface |
-|[Albert Pettersson](https://katalog.uu.se/profile/?id=N22-270) | Master student | albert.pettersson@TeC | graphene/electrolyte interface |
+|[Aishwarya Sudhama](https://www.katalog.uu.se/empinfo/?id=N22-2260) | PhD student | aishwarya.sudhama@TeC | oxide/electrolyte interface |
 
 :warning:  Replace "TeC" with "kemi.uu.se"
 
@@ -90,6 +90,9 @@ C. _Electron. Struct._, **2022**, 4: 014012, [DOI:10.1088/2516-1075/ac59ca](http
 
 |Name             |  Country | Role  |  Current Position/Location |
 |:-------------|:------------------|
+|Harish Gudla  |  :india: | PhD student  | Postdoc@UU (Sweden)|
+|Alexandros Zantis | :cyprus: | Summer intern | Master student@UU (Sweden) |
+|Albert Pettersson | :sweden: | Master student | Chemical engineer@Sandvik Materials Technology (Sweden) |
 |Yong Li  |  :cn: | Postdoc  | Postdoc@UU (Sweden)|
 |Majid Shahbabaei | :iran: | Postdoc | Assistant professor@BNUT (Iran) | 
 |Omar Malik | :united_arab_emirates:| Summer intern | Master student@UU (Sweden) |
