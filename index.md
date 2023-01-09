@@ -24,6 +24,7 @@ storage applications.
 |[Linnéa Andersson](https://katalog.uu.se/profile/?id=N21-323)| PhD student | linnea.andersson@TeC | metal/electrolyte interfaces |
 |[Thomas Dufils](https://katalog.uu.se/profile/?id=N21-1716) | Postdoc | thomas.dufils@TeC | graphene-oxide/electrolyte interfaces |
 |[Aishwarya Sudhama](https://www.katalog.uu.se/profile/?id=N22-2260) | PhD student | aishwarya.sudhama@TeC | metal-oxide/electrolyte interfaces |
+|[Alicia van Hees](https://www.katalog.uu.se/empinfo/?id=N22-264) | Master student | TBA | Solution electrochemistry | 
 
 :warning:  Replace "TeC" with "kemi.uu.se"
 
@@ -68,7 +69,7 @@ powered by ML models.
 
 [2] Jia, M., Zhang<sup>*</sup>, C. and Cheng<sup>*</sup>, J. _J. Phys. Chem. Lett._, **2021**, 12: 4616, [DOI: 10.1021/acs.jpclett.1c00775](https://doi.org/10.1021/acs.jpclett.1c00775)
 
-[3] Knijff, L., Jia, M. and Zhang<sup>*</sup>, C. **2022**, arXiv:2203.05486, [DOI: 10.48550/arXiv.2203.05486](https://doi.org/10.48550/arXiv.2203.05486)
+[3] Knijff, L., Jia, M. and Zhang<sup>*</sup>, C. **2023**, Reference Module in Chemistry, Molecular Sciences and Chemical Engineering, [DOI: 10.1016/B978-0-323-85669-0.00012-X](https://doi.org/10.1016/B978-0-323-85669-0.00012-X)
 
 [4] Gudla, H., Zhang<sup>*</sup>, C. and Brandell, D. _J. Phys. Chem. B_, **2020**, 124: 8124, [DOI: 10.1021/acs.jpcb.0c05108](https://doi.org/10.1021/acs.jpcb.0c05108)
 
@@ -93,7 +94,7 @@ C. _Electron. Struct._, **2022**, 4: 014012, [DOI:10.1088/2516-1075/ac59ca](http
 |Harish Gudla  |  :india: | PhD student (with Daniel Brandell)  | Postdoc@UU (Sweden)|
 |Alexandros Zantis | :cyprus: | Summer intern | Master student@UU (Sweden) |
 |Albert Pettersson | :sweden: | Master student | Chemical engineer@Sandvik Materials Technology (Sweden) |
-|Yong Li  |  :cn: | Postdoc  | Postdoc@UU (Sweden)|
+|Yong Li  |  :cn: | Postdoc  | Assistant professor@CQU (China)|
 |Majid Shahbabaei | :iran: | Postdoc | Assistant professor@BNUT (Iran) | 
 |Omar Malik | :united_arab_emirates:| Summer intern | Master student@UU (Sweden) |
 |Linnéa Andersson | :sweden: | Research assistant | PhD student@UU (Sweden) |
@@ -108,7 +109,7 @@ C. _Electron. Struct._, **2022**, 4: 014012, [DOI:10.1088/2516-1075/ac59ca](http
 # Acknowledgement
 
 We thank the financial supports from **Vetenskapsrådet (VR)**, **the
-European Research Council (ERC)** and **Uppsala University (UU)**.  
+European Research Council (ERC)** and **the Wallenberg Initiative Materials Science for Sustainability (WISE)**.  
 We are also part of the materials modelling community [TEOROO](http://www.teoroo.kemi.uu.se) based at Kemi-Ångström.
 
 
