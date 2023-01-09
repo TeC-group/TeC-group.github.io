@@ -18,12 +18,12 @@ storage applications.
 |Name             |  Role  |  Email | Note
 |:-------------|:------------------|:------|
 |[Chao Zhang ](https://katalog.uu.se/profile/?id=N17-1304)  |  PI  | chao.zhang@TeC | 
-|[Yunqi Shao ](https://katalog.uu.se/profile/?id=N18-2059) | PhD student | yunqi.shao@TeC | liquid and polymer electrolytes |
-|[Harish Gudla](https://katalog.uu.se/profile/?id=N18-2177) | Postdoc | harish.gudla@TeC | self-healing polymers (with Kristina Edström)|
-|[Lisanne Knijff](https://katalog.uu.se/profile/?id=N19-1351) | PhD student | lisanne.knijff@TeC | metal-oxide/electrolyte interfaces |
-|[Linnéa Andersson](https://katalog.uu.se/profile/?id=N21-323)| PhD student | linnea.andersson@TeC | metal/electrolyte interfaces |
-|[Thomas Dufils](https://katalog.uu.se/profile/?id=N21-1716) | Postdoc | thomas.dufils@TeC | graphene-oxide/electrolyte interfaces |
-|[Aishwarya Sudhama](https://www.katalog.uu.se/profile/?id=N22-2260) | PhD student | aishwarya.sudhama@TeC | metal-oxide/electrolyte interfaces |
+|[Yunqi Shao ](https://katalog.uu.se/profile/?id=N18-2059) | PhD student | yunqi.shao@TeC | Liquid and polymer electrolytes |
+|[Harish Gudla](https://katalog.uu.se/profile/?id=N18-2177) | Postdoc | harish.gudla@TeC | Self-healing polymers (with Kristina Edström)|
+|[Lisanne Knijff](https://katalog.uu.se/profile/?id=N19-1351) | PhD student | lisanne.knijff@TeC | Metal-oxide/electrolyte interfaces |
+|[Linnéa Andersson](https://katalog.uu.se/profile/?id=N21-323)| PhD student | linnea.andersson@TeC | Metal/electrolyte interfaces |
+|[Thomas Dufils](https://katalog.uu.se/profile/?id=N21-1716) | Postdoc | thomas.dufils@TeC | Graphene-oxide/electrolyte interfaces |
+|[Aishwarya Sudhama](https://www.katalog.uu.se/profile/?id=N22-2260) | PhD student | aishwarya.sudhama@TeC | Metal-oxide/electrolyte interfaces |
 |[Alicia van Hees](https://www.katalog.uu.se/empinfo/?id=N22-264) | Master student | TBA | Solution electrochemistry | 
 
 :warning:  Replace "TeC" with "kemi.uu.se"
