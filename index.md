@@ -114,3 +114,6 @@ European Research Council (ERC)** and **the Wallenberg Initiative Materials Scie
 
 ![Funding](/assets/img/Logo_banner.png)
 
+```text
+"The drive for excellence relies on both competitive energy and collaborative partnership."
+```
