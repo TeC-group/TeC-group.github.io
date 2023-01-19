@@ -17,8 +17,8 @@ storage applications.
 
 |Name             |  Role  |  Email | Note
 |:-------------|:------------------|:------|
-|[Chao Zhang ](https://katalog.uu.se/profile/?id=N17-1304)  |  PI  | chao.zhang@TeC | 
-|[Yunqi Shao ](https://katalog.uu.se/profile/?id=N18-2059) | PhD student | yunqi.shao@TeC | Liquid and polymer electrolytes |
+|[Chao Zhang](https://katalog.uu.se/profile/?id=N17-1304)  |  PI  | chao.zhang@TeC | [Biosketch](https://yacadeuro.org/zhang/) |
+|[Yunqi Shao](https://katalog.uu.se/profile/?id=N18-2059) | PhD student | yunqi.shao@TeC | Liquid and polymer electrolytes |
 |[Harish Gudla](https://katalog.uu.se/profile/?id=N18-2177) | Postdoc | harish.gudla@TeC | Self-healing polymers (with Kristina Edström)|
 |[Lisanne Knijff](https://katalog.uu.se/profile/?id=N19-1351) | PhD student | lisanne.knijff@TeC | Oxide/electrolyte interfaces |
 |[Linnéa Andersson](https://katalog.uu.se/profile/?id=N21-323)| PhD student | linnea.andersson@TeC | Metal/electrolyte interfaces |
