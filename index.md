@@ -58,10 +58,10 @@ architectures specifically for making chemical predictions. In
 particular, we have designed and implemented an interpretable and
 high-performing graph convolutional neural network architecture PiNet
 for predicting potential energy surface, polarization, and response
-charge (to the external bias) [7-10], and demonstrate how the chemical
+charge (to the external bias) [7-9], and demonstrate how the chemical
 insight “learned” by such a network can be extracted. <img align="right" width="155" height="45" src="/assets/img/PiNN_logo.png"> This will allow
 us to carry out the atomistic simulation of electrochemical systems
-powered by ML models. 
+powered by ML models [10].
 
 # Recent publications
 
@@ -77,15 +77,18 @@ powered by ML models.
 
 [6] Shao, Y., Gudla, H., Brandell, D. and Zhang<sup>*</sup>, C. _J. Am. Chem. Soc._, **2022**, 144: 7583, [DOI: 10.1021/jacs.2c02389](https://doi.org/10.1021/jacs.2c02389)
 
-[7] Shao, Y., Knijff, L., Dietrich, F. M., Hermansson, K. and Zhang<sup>*</sup>, C. _Batter. Supercaps_, **2021**, 4: 585, [DOI:10.1002/batt.202000262](https://doi.org/10.1002/batt.202000262) (Minireview)
+[7] Shao, Y., Hellström<sup>*</sup>, M., Mitev, P. D., Knijff, L. and Zhang<sup>*</sup>, C. _J. Chem. Inf. Model._, **2020**, 60: 1184, [DOI: 10.1021/acs.jcim.9b00994](https://doi.org/10.1021/acs.jcim.9b00994)
 
-[8] Shao, Y., Hellström<sup>*</sup>, M., Mitev, P. D., Knijff, L. and Zhang<sup>*</sup>, C. _J. Chem. Inf. Model._, **2020**, 60: 1184, [DOI: 10.1021/acs.jcim.9b00994](https://doi.org/10.1021/acs.jcim.9b00994)
+[8] Knijff, L. and Zhang<sup>*</sup>, C. _Mach. Learn.: Sci. Technol._, **2021**, 2: 03LT03, [DOI: 10.1088/2632-2153/ac0123](https://doi.org/10.1088/2632-2153/ac0123) (Letter)
 
-[9] Knijff, L. and Zhang<sup>*</sup>, C. _Mach. Learn.: Sci. Technol._, **2021**, 2: 03LT03, [DOI: 10.1088/2632-2153/ac0123](https://doi.org/10.1088/2632-2153/ac0123) (Letter)
-
-[10] Shao<sup>†</sup>, Y., Andersson<sup>†</sup>, L., Knijff, L. and Zhang<sup>*</sup>,
+[9] Shao<sup>†</sup>, Y., Andersson<sup>†</sup>, L., Knijff, L. and Zhang<sup>*</sup>,
 C. _Electron. Struct._, **2022**, 4: 014012, [DOI:10.1088/2516-1075/ac59ca](https://doi.org/10.1088/2516-1075/ac59ca)
 (Invited paper)
+
+[10] Dufils, T., Knjiff, L., Shao, Y. and Zhang<sup>*</sup>, C. **2023**, arXiv:2303.15307, [DOI: 10.48550/arXiv.2303.15307](
+https://doi.org/10.48550/arXiv.2303.15307)
+
+
 
 # Alumni
 
