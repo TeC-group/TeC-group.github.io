@@ -112,7 +112,7 @@ https://doi.org/10.48550/arXiv.2303.15307)
 # Acknowledgement
 
 We thank the financial supports from **Vetenskapsrådet (VR)**, **the
-European Research Council (ERC)** and **the Wallenberg Initiative Materials Science for Sustainability (WISE)**. We are also part of the materials modelling community [TEOROO](http://www.teoroo.kemi.uu.se) based at Kemi-Ångström.
+European Research Council (ERC)** and **the Wallenberg Initiative Materials Science for Sustainability (WISE)**. We are also part of the materials modelling community [TEOROO](https://github.com/Teoroo-CMC) based at Kemi-Ångström.
 
 
 ![Funding](/assets/img/Logo_banner.png)
