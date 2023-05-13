@@ -51,7 +51,7 @@ Machine learning (ML) is becoming increasingly important in computational chemis
 
 
 Recently, we have taken the initiative and developed an open-source
-Python library named [PiNN](https://github.com/Teoroo-CMC/PiNN/),
+Python library named PiNN [https://github.com/Teoroo-CMC/PiNN/](https://github.com/Teoroo-CMC/PiNN/),
 allowing researchers to easily develop and train state-of-the-art ANN
 architectures specifically for making chemical predictions. In
 particular, we have designed and implemented an interpretable and
