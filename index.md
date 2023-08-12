@@ -13,18 +13,18 @@ storage applications.
 ![group_photo](/assets/img/Group_photo_June_2021.jpg)
 
 (From left to right: Yunqi, Lisanne, Linnéa, Omar, Yong and Chao)
-# People :cn: :india: :netherlands: :sweden: :fr:
+# People :cn: :india: :netherlands: :sweden: 
 
 |Name             |  Role  |  Email | Note
 |:-------------|:------------------|:------|
 |[Chao Zhang](https://katalog.uu.se/profile/?id=N17-1304)  |  PI  | chao.zhang@TeC | [Biosketch](https://yacadeuro.org/zhang/) |
-|[Yunqi Shao](https://katalog.uu.se/profile/?id=N18-2059) | PhD student | yunqi.shao@TeC | Liquid and polymer electrolytes |
+|[Yunqi Shao](https://katalog.uu.se/profile/?id=N18-2059) | Postdoc | yunqi.shao@TeC | Liquid and polymer electrolytes |
 |[Harish Gudla](https://katalog.uu.se/profile/?id=N18-2177) | Postdoc | harish.gudla@TeC | Self-healing polymers (with Kristina Edström)|
 |[Lisanne Knijff](https://katalog.uu.se/profile/?id=N19-1351) | PhD student | lisanne.knijff@TeC | Oxide/electrolyte interfaces |
 |[Linnéa Andersson](https://katalog.uu.se/profile/?id=N21-323)| PhD student | linnea.andersson@TeC | Metal/electrolyte interfaces |
-|[Thomas Dufils](https://katalog.uu.se/profile/?id=N21-1716) | Postdoc | thomas.dufils@TeC | Graphene-oxide/electrolyte interfaces |
 |[Aishwarya Sudhama](https://www.katalog.uu.se/profile/?id=N22-2260) | PhD student | aishwarya.sudhama@TeC | Oxide/electrolyte interfaces |
-|[Alicia van Hees](https://www.katalog.uu.se/empinfo/?id=N22-264) | Master student | TBA | Solution electrochemistry | 
+|[Alicia van Hees](https://www.katalog.uu.se/empinfo/?id=N22-264) | PhD student | alicia.van-hees@TeC | Interfacial PCET | 
+|[Jichen Li](https://www.katalog.uu.se/empinfo/?id=N23-1517) | PhD student | jichen.li@TeC | Polymer electrolytes (with Daniel Brandell) | 
 
 :warning:  Replace "TeC" with "kemi.uu.se"
 
@@ -84,8 +84,7 @@ powered by ML models [10].
 C. _Electron. Struct._, **2022**, 4: 014012, [DOI:10.1088/2516-1075/ac59ca](https://doi.org/10.1088/2516-1075/ac59ca)
 (Invited paper)
 
-[10] Dufils, T., Knjiff, L., Shao, Y. and Zhang<sup>*</sup>, C. **2023**, arXiv:2303.15307, [DOI: 10.48550/arXiv.2303.15307](
-https://doi.org/10.48550/arXiv.2303.15307)
+[10] Dufils, T., Knjiff, L., Shao, Y. and Zhang<sup>*</sup>, C. _J. Chem. Theory Comput._,**2023**, 19: 5199, [DOI: 10.1021/acs.jctc.3c00359](https://doi.org/10.1021/acs.jctc.3c00359)
 
 
 
@@ -93,6 +92,7 @@ https://doi.org/10.48550/arXiv.2303.15307)
 
 |Name             |  Country | Role  |  Current Position/Location |
 |:-------------|:------------------|
+|Thomas Dufils | :fr: | Postdoc | Teacher@Lycée Albert Einstein (France) |
 |Harish Gudla  |  :india: | PhD student (with Daniel Brandell)  | Postdoc@UU (Sweden)|
 |Alexandros Zantis | :cyprus: | Summer intern | Master student@UU (Sweden) |
 |Albert Pettersson | :sweden: | Master student | Chemical engineer@Sandvik Materials Technology (Sweden) |
