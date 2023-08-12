@@ -95,6 +95,7 @@ C. _Electron. Struct._, **2022**, 4: 014012, [DOI:10.1088/2516-1075/ac59ca](http
 |Thomas Dufils | :fr: | Postdoc | Teacher@Lycée Albert Einstein (France) |
 |Matthew Chagnot | :us: | Visiting PhD student | PhD student@NCSU (US) |
 |Sheng Bi | :cn: | Visiting postdoc | postdoc@sorbonne (France) |
+|Alicia van Hees | :sweden: | Master student | PhD student@UU (Sweden)|
 |Harish Gudla  |  :india: | PhD student (with Daniel Brandell)  | Postdoc@UU (Sweden)|
 |Alexandros Zantis | :cyprus: | Summer intern | Master student@UU (Sweden) |
 |Albert Pettersson | :sweden: | Master student | Chemical engineer@Sandvik Materials Technology (Sweden) |
