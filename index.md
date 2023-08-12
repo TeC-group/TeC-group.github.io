@@ -84,7 +84,7 @@ powered by ML models [10].
 C. _Electron. Struct._, **2022**, 4: 014012, [DOI:10.1088/2516-1075/ac59ca](https://doi.org/10.1088/2516-1075/ac59ca)
 (Invited paper)
 
-[10] Dufils, T., Knjiff, L., Shao, Y. and Zhang<sup>*</sup>, C. _J. Chem. Theory Comput._,**2023**, 19: 5199, [DOI: 10.1021/acs.jctc.3c00359](https://doi.org/10.1021/acs.jctc.3c00359)
+[10] Dufils, T., Knjiff, L., Shao, Y. and Zhang<sup>*</sup>, C. _J. Chem. Theory Comput._, **2023**, 19: 5199, [DOI: 10.1021/acs.jctc.3c00359](https://doi.org/10.1021/acs.jctc.3c00359)
 
 
 
@@ -93,6 +93,8 @@ C. _Electron. Struct._, **2022**, 4: 014012, [DOI:10.1088/2516-1075/ac59ca](http
 |Name             |  Country | Role  |  Current Position/Location |
 |:-------------|:------------------|
 |Thomas Dufils | :fr: | Postdoc | Teacher@Lycée Albert Einstein (France) |
+|Matthew Chagnot | :us: | Visiting PhD student | PhD student@NCSU (US) |
+|Sheng Bi | :cn: | Visiting postdoc | postdoc@sorbonne (FR) |
 |Harish Gudla  |  :india: | PhD student (with Daniel Brandell)  | Postdoc@UU (Sweden)|
 |Alexandros Zantis | :cyprus: | Summer intern | Master student@UU (Sweden) |
 |Albert Pettersson | :sweden: | Master student | Chemical engineer@Sandvik Materials Technology (Sweden) |
