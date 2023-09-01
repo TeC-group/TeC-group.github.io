@@ -68,7 +68,7 @@ powered by ML models [10].
 
 [2] Jia, M., Zhang<sup>*</sup>, C. and Cheng<sup>*</sup>, J. _J. Phys. Chem. Lett._, **2021**, 12: 4616, [DOI: 10.1021/acs.jpclett.1c00775](https://doi.org/10.1021/acs.jpclett.1c00775)
 
-[3] Knijff, L., Jia, M. and Zhang<sup>*</sup>, C. **2023**, Reference Module in Chemistry, Molecular Sciences and Chemical Engineering, [DOI: 10.1016/B978-0-323-85669-0.00012-X](https://doi.org/10.1016/B978-0-323-85669-0.00012-X)
+[3] Knijff, L., Jia, M. and Zhang<sup>*</sup>, C. _Encyclopedia of Solid-Liquid Interfaces_, **2024**, 2: 567, [DOI: 10.1016/B978-0-323-85669-0.00012-X](https://doi.org/10.1016/B978-0-323-85669-0.00012-X)
 
 [4] Gudla, H., Zhang<sup>*</sup>, C. and Brandell, D. _J. Phys. Chem. B_, **2020**, 124: 8124, [DOI: 10.1021/acs.jpcb.0c05108](https://doi.org/10.1021/acs.jpcb.0c05108)
 
