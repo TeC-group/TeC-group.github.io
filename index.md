@@ -58,7 +58,7 @@ architectures specifically for making chemical predictions. In
 particular, we have designed and implemented an interpretable and
 high-performing graph convolutional neural network architecture PiNet
 for predicting potential energy surface, polarization, and response
-charge (to the external bias) [7-9], and demonstrate how the chemical
+charge (to the voltage bias) [7-9], and demonstrate how the chemical
 insight “learned” by such a network can be extracted. <img align="right" width="155" height="45" src="/assets/img/PiNN_logo.png"> This will allow
 us to carry out the atomistic simulation of electrochemical systems
 powered by ML models [10].
@@ -108,7 +108,7 @@ C. _Electron. Struct._, **2022**, 4: 014012, [DOI:10.1088/2516-1075/ac59ca](http
 |Mei Jia | :cn: | Visiting PhD student | Lecturer@SQNU (China) |
 |Lisanne Knijff | :netherlands: | Master student | PhD student@UU (Sweden)|
 |Supho Phunnarungsi | :thailand: | Summer intern | Bangkok (Thailand) |
-|Shuang Han |:cn:| Master student | PhD student@DTU (Denmark)|
+|Shuang Han |:cn:| Master student | Postdoc@BASF (Germany)|
 |Are Yllö | :sweden: |  Master student | Research engineer@Sandvik Coromant (Sweden)|
 |Thomas Sayer| :uk: | Visiting PhD student | Postdoc@CUBoulder (US) |
 
