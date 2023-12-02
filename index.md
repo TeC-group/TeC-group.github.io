@@ -26,6 +26,7 @@ storage applications.
 |[Alicia van Hees](https://www.katalog.uu.se/empinfo/?id=N22-264) | PhD student | alicia.van-hees@TeC | Interfacial PCET | 
 |[Jichen Li](https://www.katalog.uu.se/empinfo/?id=N23-1517) | PhD student | jichen.li@TeC | Polymer electrolytes (with Daniel Brandell) |
 |[Zhan-Yun Zhang](https://www.katalog.uu.se/empinfo/?id=N23-2102) | Postdoc | zhan-yun.zhang@TeC | WISE-ap1 |
+|[Emily Azzopardi](https://www.katalog.uu.se/profile/?id=N23-2547) | Master student | N/A | Organic supercaps |
 
 :warning:  Replace "TeC" with "kemi.uu.se"
 
