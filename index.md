@@ -13,7 +13,7 @@ storage applications.
 ![group_photo](/assets/img/Group_photo_June_2021.jpg)
 
 (From left to right: Yunqi, Lisanne, Linnéa, Omar, Yong and Chao)
-# People :cn: :india: :netherlands: :sweden: flag: Malta
+# People :cn: :india: :netherlands: :sweden: :malta:
 
 |Name             |  Role  |  Email | Note
 |:-------------|:------------------|:------|
