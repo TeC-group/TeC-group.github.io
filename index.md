@@ -18,7 +18,6 @@ storage applications.
 |Name             |  Role  |  Email | Note
 |:-------------|:------------------|:------|
 |[Chao Zhang](https://katalog.uu.se/profile/?id=N17-1304)  |  PI  | chao.zhang@TeC | [Biosketch](https://yacadeuro.org/zhang/) |
-|[Yunqi Shao](https://katalog.uu.se/profile/?id=N18-2059) | Postdoc | yunqi.shao@TeC | Liquid and polymer electrolytes |
 |[Harish Gudla](https://katalog.uu.se/profile/?id=N18-2177) | Postdoc | harish.gudla@TeC | Self-healing polymers (with Kristina Edström)|
 |[Lisanne Knijff](https://katalog.uu.se/profile/?id=N19-1351) | PhD student | lisanne.knijff@TeC | Oxide/electrolyte interfaces |
 |[Linnéa Andersson](https://katalog.uu.se/profile/?id=N21-323)| PhD student | linnea.andersson@TeC | Metal/electrolyte interfaces |
@@ -94,6 +93,7 @@ C. _Electron. Struct._, **2022**, 4: 014012, [DOI:10.1088/2516-1075/ac59ca](http
 
 |Name             |  Country | Role  |  Current Position/Location |
 |:-------------|:------------------|
+|Yunqi Shao | :cn: | PhD student | Research engineer@Chalmers (Sweden) |
 |Thomas Dufils | :fr: | Postdoc | Teacher@Lycée Albert Einstein (France) |
 |Matthew Chagnot | :us: | Visiting PhD student | PhD student@NCSU (US) |
 |Sheng Bi | :cn: | Visiting postdoc | postdoc@Sorbonne (France) |
