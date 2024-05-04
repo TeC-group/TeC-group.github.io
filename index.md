@@ -13,7 +13,7 @@ storage applications.
 ![group_photo](/assets/img/Group_photo_June_2021.jpg)
 
 (From left to right: Yunqi, Lisanne, Linnéa, Omar, Yong and Chao)
-# People :cn: :india: :netherlands: :sweden: :malta: :italy:
+# People :cn: :india: :netherlands: :sweden: :malta: :it:  
 
 |Name             |  Role  |  Email | Note
 |:-------------|:------------------|:------|
@@ -27,7 +27,7 @@ storage applications.
 |[Zhan-Yun Zhang](https://www.katalog.uu.se/empinfo/?id=N23-2102) | Postdoc | zhan-yun.zhang@TeC | WISE-ap1 |
 |[Emily Azzopardi](https://www.katalog.uu.se/profile/?id=N23-2547) | Master student | N/A | Organic supercaps |
 
-|[Aniello  Langella](https://www.uu.se/kontakt-och-organisation/personal?query=N24-871) | Master student | N/A | Metal/Polymer interface (with Daniel Brandell) |
+|[Aniello  Langella](https://www.uu.se/kontakt-och-organisation/personal?query=N24-871) | Visiting PhD student | aniello.langella@unina.it  | Metal/Polymer interface (with Daniel Brandell) |
 
 :warning:  Replace "TeC" with "kemi.uu.se"
 
