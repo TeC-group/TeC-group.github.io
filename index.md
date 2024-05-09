@@ -76,7 +76,7 @@ powered by ML models [10].
 
 [5] Shao, Y., Gudla, H., Brandell, D. and Zhang<sup>*</sup>, C. _J. Am. Chem. Soc._, **2022**, 144: 7583, [DOI: 10.1021/jacs.2c02389](https://doi.org/10.1021/jacs.2c02389)
 
-[6] Gudla, H., Edström, K., Zhang<sup>*</sup>, C.  _arXiv:2311.08144_, **2023**, [DOI: 10.48550/arXiv.2311.08144](https://doi.org/10.48550/arXiv.2311.08144)
+[6] Gudla, H., Edström, K., Zhang<sup>*</sup>, C.  _ACS Mater. Au_, **2024**, 4: 300 [DOI: 10.1021/acsmaterialsau.3c00098](https://doi.org/10.1021/acsmaterialsau.3c00098)
 
 [7] Shao, Y., Hellström<sup>*</sup>, M., Mitev, P. D., Knijff, L. and Zhang<sup>*</sup>, C. _J. Chem. Inf. Model._, **2020**, 60: 1184, [DOI: 10.1021/acs.jcim.9b00994](https://doi.org/10.1021/acs.jcim.9b00994)
 
