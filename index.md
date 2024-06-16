@@ -12,7 +12,7 @@ storage applications.
 
 ![group_photo](/assets/img/TeC_Jun_2024.jpg)
 
-(From left to right: Yunqi, Lisanne, Linnéa, Omar, Yong and Chao)
+(From left to right: Zhan-Yun, Aishwarya, Emily, Alicia, Lisanne, Aniello, Linnéa, and Jichen)
 # People :cn: :india: :netherlands: :sweden: :malta: :it:  
 
 |Name             |  Role  |  Email | Note
