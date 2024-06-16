@@ -10,7 +10,7 @@ of electrically charged interfaces" for energy
 storage applications.
 ```
 
-![group_photo](/assets/img/Group_photo_June_2021.jpg)
+![group_photo](/assets/img/TeC_Jun_2024.jpg)
 
 (From left to right: Yunqi, Lisanne, Linnéa, Omar, Yong and Chao)
 # People :cn: :india: :netherlands: :sweden: :malta: :it:  
