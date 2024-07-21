@@ -13,7 +13,7 @@ storage applications.
 ![group_photo](/assets/img/TeC_Jun_2024.jpg)
 
 (From left to right: Zhan-Yun, Aishwarya, Emily, Alicia, Lisanne, Aniello, Linnéa, and Jichen)
-# People :cn: :india: :netherlands: :sweden: :malta: :it:  
+# People :cn: :india: :netherlands: :sweden: :it:  
 
 |Name             |  Role  |  Email | Note
 |:-------------|:------------------|:------|
@@ -25,7 +25,6 @@ storage applications.
 |[Alicia van Hees](https://www.katalog.uu.se/empinfo/?id=N22-264) | PhD student | alicia.van-hees@TeC | Interfacial PCET | 
 |[Jichen Li](https://www.katalog.uu.se/empinfo/?id=N23-1517) | PhD student | jichen.li@TeC | Polymer electrolytes (with Daniel Brandell) |
 |[Zhan-Yun Zhang](https://www.katalog.uu.se/empinfo/?id=N23-2102) | Postdoc | zhan-yun.zhang@TeC | WISE-ap1 |
-|[Emily Azzopardi](https://www.katalog.uu.se/profile/?id=N23-2547) | Master student | N/A | Organic supercaps |
 |[Aniello  Langella](https://www.uu.se/kontakt-och-organisation/personal?query=N24-871) | Visiting PhD student | aniello.langella@unina.it  | Metal/polymer interface (with Daniel Brandell) |
 
 :warning:  Replace "TeC" with "kemi.uu.se"
@@ -66,11 +65,11 @@ powered by ML models [10].
 
 # Recent publications
 
-[1] Jia, M., Zhang<sup>*</sup>, C. and Cheng<sup>*</sup>, J. _J. Phys. Chem. Lett._, **2021**, 12: 4616, [DOI: 10.1021/acs.jpclett.1c00775](https://doi.org/10.1021/acs.jpclett.1c00775)
+[1] Andersson, L., and Zhang<sup>*</sup>, C. _Curr. Opin. Electrochem._, **2023**, 42: 101407, [DOI: doi.org/10.1016/j.coelec.2023.101407](https://doi.org/10.1016/j.coelec.2023.101407)
 
-[2] Andersson, L., and Zhang<sup>*</sup>, C. _Curr. Opin. Electrochem._, **2023**, 42: 101407, [DOI: doi.org/10.1016/j.coelec.2023.101407](https://doi.org/10.1016/j.coelec.2023.101407)
+[2] Knijff, L., Jia, M. and Zhang<sup>*</sup>, C. _Encyclopedia of Solid-Liquid Interfaces_, **2024**, 2: 567, [DOI: 10.1016/B978-0-323-85669-0.00012-X](https://doi.org/10.1016/B978-0-323-85669-0.00012-X)
 
-[3] Knijff, L., Jia, M. and Zhang<sup>*</sup>, C. _Encyclopedia of Solid-Liquid Interfaces_, **2024**, 2: 567, [DOI: 10.1016/B978-0-323-85669-0.00012-X](https://doi.org/10.1016/B978-0-323-85669-0.00012-X)
+[3] Andersson, L., Sprik, M., Hutter, J., and Zhang<sup>*</sup>, C. ChemRxiv. **2024**, [DOI: doi.org/10.26434/chemrxiv-2024-lgdd4](https://doi.org/10.26434/chemrxiv-2024-lgdd4)
 
 [4] Gudla, H., Shao, Y., Phunnarungsi, S., Brandell, D. and Zhang<sup>*</sup>, C. _J. Phys. Chem. Lett._, **2021**, 12: 8460, [DOI: 10.1021/acs.jpclett.1c02474](https://doi.org/10.1021/acs.jpclett.1c02474)
 
@@ -94,6 +93,7 @@ C. _Electron. Struct._, **2022**, 4: 014012, [DOI:10.1088/2516-1075/ac59ca](http
 
 |Name             |  Country | Role  |  Current Position/Location |
 |:-------------|:------------------|
+|Emily Azzopardi | :malta: | Master student | Uppsala (Sweden) |
 |Yunqi Shao | :cn: | PhD student | Research engineer@Chalmers (Sweden) |
 |Thomas Dufils | :fr: | Postdoc | Teacher@Lycée Albert Einstein (France) |
 |Matthew Chagnot | :us: | Visiting PhD student | PhD student@NCSU (US) |
