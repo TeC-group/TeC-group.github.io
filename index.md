@@ -64,17 +64,17 @@ powered by ML models [10].
 
 # Recent publications
 
-[1] Andersson, L., and Zhang<sup>*</sup>, C. _Curr. Opin. Electrochem._, **2023**, 42: 101407, [DOI: doi.org/10.1016/j.coelec.2023.101407](https://doi.org/10.1016/j.coelec.2023.101407)
+[1] Andersson, L. and Zhang<sup>*</sup>, C. _Curr. Opin. Electrochem._, **2023**, 42: 101407, [DOI: doi.org/10.1016/j.coelec.2023.101407](https://doi.org/10.1016/j.coelec.2023.101407)
 
 [2] Knijff, L., Jia, M. and Zhang<sup>*</sup>, C. _Encyclopedia of Solid-Liquid Interfaces_, **2024**, 2: 567, [DOI: 10.1016/B978-0-323-85669-0.00012-X](https://doi.org/10.1016/B978-0-323-85669-0.00012-X)
 
-[3] Andersson, L., Sprik, M., Hutter, J., and Zhang<sup>*</sup>, C. _Angew. Chem. Int. Ed._, **2024**, [DOI: 10.1002/anie.202413614](https://doi.org/10.1002/anie.202413614)
+[3] Andersson, L., Sprik, M., Hutter, J. and Zhang<sup>*</sup>, C. _Angew. Chem. Int. Ed._, **2024**, e202413614, [DOI: 10.1002/anie.202413614](https://doi.org/10.1002/anie.202413614)
 
 [4] Gudla, H., Shao, Y., Phunnarungsi, S., Brandell, D. and Zhang<sup>*</sup>, C. _J. Phys. Chem. Lett._, **2021**, 12: 8460, [DOI: 10.1021/acs.jpclett.1c02474](https://doi.org/10.1021/acs.jpclett.1c02474)
 
 [5] Shao, Y., Gudla, H., Brandell, D. and Zhang<sup>*</sup>, C. _J. Am. Chem. Soc._, **2022**, 144: 7583, [DOI: 10.1021/jacs.2c02389](https://doi.org/10.1021/jacs.2c02389)
 
-[6] Gudla, H., Edström, K., Zhang<sup>*</sup>, C.  _ACS Mater. Au_, **2024**, 4: 300 [DOI: 10.1021/acsmaterialsau.3c00098](https://doi.org/10.1021/acsmaterialsau.3c00098)
+[6] Gudla, H., Edström, K. and Zhang<sup>*</sup>, C.  _ACS Mater. Au_, **2024**, 4: 300 [DOI: 10.1021/acsmaterialsau.3c00098](https://doi.org/10.1021/acsmaterialsau.3c00098)
 
 [7] Shao, Y., Hellström<sup>*</sup>, M., Mitev, P. D., Knijff, L. and Zhang<sup>*</sup>, C. _J. Chem. Inf. Model._, **2020**, 60: 1184, [DOI: 10.1021/acs.jcim.9b00994](https://doi.org/10.1021/acs.jcim.9b00994)
 
