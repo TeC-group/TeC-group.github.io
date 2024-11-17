@@ -13,7 +13,7 @@ storage applications.
 ![group_photo](/assets/img/TeC_Jun_2024.jpg)
 
 (From left to right: Zhan-Yun, Aishwarya, Emily, Alicia, Lisanne, Aniello, Linnéa, and Jichen)
-# People :cn: :india: :netherlands: :sweden: :it:  
+# People :cn: :india: :netherlands: :sweden: :iceland:  
 
 |Name             |  Role  |  Email | Note
 |:-------------|:------------------|:------|
@@ -24,7 +24,7 @@ storage applications.
 |[Alicia van Hees](https://www.katalog.uu.se/empinfo/?id=N22-264) | PhD student | alicia.van-hees@TeC | Interfacial PCET | 
 |[Jichen Li](https://www.katalog.uu.se/empinfo/?id=N23-1517) | PhD student | jichen.li@TeC | Polymer electrolytes (with Daniel Brandell) |
 |[Zhan-Yun Zhang](https://www.katalog.uu.se/empinfo/?id=N23-2102) | Postdoc | zhan-yun.zhang@TeC | WISE-ap1 |
-|[Aniello  Langella](https://www.uu.se/kontakt-och-organisation/personal?query=N24-871) | Visiting PhD student | aniello.langella@unina.it  | Metal/polymer interface (with Daniel Brandell) |
+|[Movaffaq Kateb](https://www.uu.se/kontakt-och-organisation/personal?query=N24-2523) | Senior postdoc | movaffaq.kateb@kemi.uu.se  | Self-healing polymers (with Kristina Edström) |
 
 :warning:  Replace "TeC" with "kemi.uu.se"
 
@@ -92,6 +92,7 @@ C. _Electron. Struct._, **2022**, 4: 014012, [DOI:10.1088/2516-1075/ac59ca](http
 
 |Name             |  Country | Role  |  Current Position/Location |
 |:-------------|:------------------|
+|Aniello  Langella |  :it: | Visiting PhD student (with Daniel Brandell)  | PhD student@UniNa (Italy)|
 |Harish Gudla  |  :india: | Postdoc (with Kristina Edström)  | Computational materials scientist@Compular (Sweden)|
 |Emily Azzopardi | :malta: | Master student | Uppsala (Sweden) |
 |Yunqi Shao | :cn: | PhD student | Research engineer@Chalmers (Sweden) |
