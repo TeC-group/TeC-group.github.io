@@ -54,8 +54,8 @@ Recently, we have taken the initiative and developed an open-source
 Python library named PiNN [https://github.com/Teoroo-CMC/PiNN/](https://github.com/Teoroo-CMC/PiNN/),
 allowing researchers to easily develop and train state-of-the-art ANN
 architectures specifically for making chemical predictions. In
-particular, we have designed and implemented an interpretable and
-high-performing graph convolutional neural network architecture PiNet
+particular, we have designed and implemented an equivariant and
+high-performing graph convolutional neural network architecture PiNet2
 for predicting potential energy surface, polarization, and response
 charge (to the voltage bias) [7-9], and demonstrate how the chemical
 insight “learned” by such a network can be extracted. <img align="right" width="155" height="45" src="/assets/img/PiNN_logo.png"> This will allow
@@ -76,7 +76,7 @@ powered by ML models [10].
 
 [6] Gudla, H., Edström, K. and Zhang<sup>*</sup>, C.  _ACS Mater. Au_, **2024**, 4: 300 [DOI: 10.1021/acsmaterialsau.3c00098](https://doi.org/10.1021/acsmaterialsau.3c00098)
 
-[7] Shao, Y., Hellström<sup>*</sup>, M., Mitev, P. D., Knijff, L. and Zhang<sup>*</sup>, C. _J. Chem. Inf. Model._, **2020**, 60: 1184, [DOI: 10.1021/acs.jcim.9b00994](https://doi.org/10.1021/acs.jcim.9b00994)
+[7] Li, J.,  Knijff, L., Zhang, Z.-Y., Andersson, L. and Zhang<sup>*</sup>, C. _ChemRxiv_, **2024**, [DOI: 10.26434/chemrxiv-2024-zfvrz](https://doi.org/10.26434/chemrxiv-2024-zfvrz)
 
 [8] Knijff, L. and Zhang<sup>*</sup>, C. _Mach. Learn.: Sci. Technol._, **2021**, 2: 03LT03, [DOI: 10.1088/2632-2153/ac0123](https://doi.org/10.1088/2632-2153/ac0123) (Letter)
 
