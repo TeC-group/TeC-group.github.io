@@ -55,7 +55,7 @@ architectures specifically for making chemical predictions. In
 particular, we have designed and implemented an equivariant and
 high-performing graph convolutional neural network architecture PiNet2
 for predicting potential energy surface, polarization, and response
-charge (to the voltage bias) [7-9]. <img align="right" width="103" height="50" src="/assets/img/PiNN_logo.png"> This allows
+charge (to the voltage bias) [7-9]. <img align="right" width="118" height="50" src="/assets/img/PiNN_logo.png"> This allows
 us to carry out the atomistic simulation of electrochemical systems
 powered by ML models [10].
 
