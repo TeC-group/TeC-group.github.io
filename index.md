@@ -48,17 +48,14 @@ Currently, we are working on MD simulations of ionic conductivity and other tran
 
 Machine learning (ML) is becoming increasingly important in computational chemistry and materials discovery. Atomic neural networks (ANN), which constitute a class of ML methods, have been very successful in predicting physicochemical properties and approximating potential energy surfaces.
 
-
-
-Recently, we have taken the initiative and developed an open-source
+Recently, we have taken the initiative and developed a pair-wise interaction neural network
 Python library named PiNN [https://github.com/Teoroo-CMC/PiNN/](https://github.com/Teoroo-CMC/PiNN/),
 allowing researchers to easily develop and train state-of-the-art ANN
 architectures specifically for making chemical predictions. In
 particular, we have designed and implemented an equivariant and
 high-performing graph convolutional neural network architecture PiNet2
 for predicting potential energy surface, polarization, and response
-charge (to the voltage bias) [7-9], and demonstrate how the chemical
-insight “learned” by such a network can be extracted. <img align="right" width="155" height="45" src="/assets/img/PiNN_logo.png"> This will allow
+charge (to the voltage bias) [7-9]. <img align="right" width="155" height="45" src="/assets/img/PiNN_logo.png"> This allows
 us to carry out the atomistic simulation of electrochemical systems
 powered by ML models [10].
 
