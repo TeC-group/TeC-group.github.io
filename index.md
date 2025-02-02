@@ -66,7 +66,7 @@ powered by ML models [10].
 
 [2] Knijff, L., Jia, M. and Zhang<sup>*</sup>, C. _Encyclopedia of Solid-Liquid Interfaces_, **2024**, 2: 567, [DOI: 10.1016/B978-0-323-85669-0.00012-X](https://doi.org/10.1016/B978-0-323-85669-0.00012-X)
 
-[3] Andersson, L., Sprik, M., Hutter, J. and Zhang<sup>*</sup>, C. _Angew. Chem. Int. Ed._, **2024**, e202413614, [DOI: 10.1002/anie.202413614](https://doi.org/10.1002/anie.202413614)
+[3] Andersson, L., Sprik, M., Hutter, J. and Zhang<sup>*</sup>, C. _Angew. Chem. Int. Ed._, **2025**, 64: e202413614, [DOI: 10.1002/anie.202413614](https://doi.org/10.1002/anie.202413614)
 
 [4] Gudla, H., Shao, Y., Phunnarungsi, S., Brandell, D. and Zhang<sup>*</sup>, C. _J. Phys. Chem. Lett._, **2021**, 12: 8460, [DOI: 10.1021/acs.jpclett.1c02474](https://doi.org/10.1021/acs.jpclett.1c02474)
 
@@ -74,7 +74,7 @@ powered by ML models [10].
 
 [6] Gudla, H., Edström, K. and Zhang<sup>*</sup>, C.  _ACS Mater. Au_, **2024**, 4: 300 [DOI: 10.1021/acsmaterialsau.3c00098](https://doi.org/10.1021/acsmaterialsau.3c00098)
 
-[7] Li, J.,  Knijff, L., Zhang, Z.-Y., Andersson, L. and Zhang<sup>*</sup>, C. _ChemRxiv_, **2024**, [DOI: 10.26434/chemrxiv-2024-zfvrz](https://doi.org/10.26434/chemrxiv-2024-zfvrz)
+[7] Li, J.,  Knijff, L., Zhang, Z.-Y., Andersson, L. and Zhang<sup>*</sup>, C. _J. Chem. Theory Comput._, **2025**, [DOI: 10.1021/acs.jctc.4c01570](https://doi.org/10.1021/acs.jctc.4c01570)
 
 [8] Knijff, L. and Zhang<sup>*</sup>, C. _Mach. Learn.: Sci. Technol._, **2021**, 2: 03LT03, [DOI: 10.1088/2632-2153/ac0123](https://doi.org/10.1088/2632-2153/ac0123) (Letter)
 
