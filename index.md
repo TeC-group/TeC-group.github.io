@@ -82,8 +82,7 @@ C. _Electron. Struct._, **2022**, 4: 014012, [DOI:10.1088/2516-1075/ac59ca](http
 
 [9] Dufils, T., Knjiff, L., Shao, Y. and Zhang<sup>*</sup>, C. _J. Chem. Theory Comput._, **2023**, 19: 5199, [DOI: 10.1021/acs.jctc.3c00359](https://doi.org/10.1021/acs.jctc.3c00359)
 
-[10] Li<sup>†</sup>, J.,  Knijff<sup>†</sup>, L., Zhang, Z.-Y., Andersson, L. and Zhang<sup>*</sup>, C. _J. Chem. Theory Comput._, **2025**, [DOI: 10.10\
-21/acs.jctc.4c01570](https://doi.org/10.1021/acs.jctc.4c01570)
+[10] Li<sup>†</sup>, J.,  Knijff<sup>†</sup>, L., Zhang, Z.-Y., Andersson, L. and Zhang<sup>*</sup>, C. _J. Chem. Theory Comput._, **2025**, [DOI: 10.1021/acs.jctc.4c01570](https://doi.org/10.1021/acs.jctc.4c01570)
 
 
 # Alumni
