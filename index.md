@@ -25,7 +25,7 @@ storage applications.
 |[Jichen Li](https://www.katalog.uu.se/empinfo/?id=N23-1517) | PhD student | jichen.li@TeC | Polymer electrolytes (with Daniel Brandell) |
 |[Zhan-Yun Zhang](https://www.katalog.uu.se/empinfo/?id=N23-2102) | Postdoc | zhan-yun.zhang@TeC | WISE-ap1 |
 |[Movaffaq Kateb](https://www.uu.se/kontakt-och-organisation/personal?query=N24-2523) | Senior postdoc | movaffaq.kateb@TeC  | Self-healing polymers (with Kristina Edström) |
-| Floor de Vries | Master student | N/A | Research training | 
+| [Floor de Vries](https://www.uu.se/kontakt-och-organisation/personal?query=N25-516) | Master student | N/A | Research training | 
 
 :warning:  Replace "TeC" with "kemi.uu.se"
 
