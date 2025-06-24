@@ -26,7 +26,7 @@ storage applications.
 |[Zhan-Yun Zhang](https://www.katalog.uu.se/empinfo/?id=N23-2102) | Postdoc | zhan-yun.zhang@TeC | WISE-ap1 |
 |[Movaffaq Kateb](https://www.uu.se/kontakt-och-organisation/personal?query=N24-2523) | Senior postdoc | movaffaq.kateb@TeC  | Self-healing polymers (with Kristina Edström) |
 | [Floor de Vries](https://www.uu.se/kontakt-och-organisation/personal?query=N25-516) | Master student | N/A | Research training | 
-| [Kadri Muiga](https://www.uu.se/kontakt-och-organisation/personal?query=N25-329) | Master student | N/A | Thesis work |
+| [Kadri Muuga](https://www.uu.se/kontakt-och-organisation/personal?query=N25-329) | Master student | N/A | Thesis work |
 
 :warning:  Replace "TeC" with "kemi.uu.se"
 
