@@ -89,7 +89,7 @@ C. _Electron. Struct._, **2022**, 4: 014012, [DOI:10.1088/2516-1075/ac59ca](http
 
 |Name             |  Country | Role  |  Current Position/Location |
 |:-------------|:------------------|
-|Lisanne Knijff |  :netherlands: | PhD student  | System administrator@Parallelldatorcentrum (Sweden)|
+|Lisanne Knijff |  :netherlands: | PhD student  | System administrator@KTH (Sweden)|
 |Aniello  Langella |  :it: | Visiting PhD student (with Daniel Brandell)  | PhD student@UniNa (Italy)|
 |Harish Gudla  |  :india: | Postdoc (with Kristina Edström)  | Computational materials scientist@Compular (Sweden)|
 |Emily Azzopardi | :malta: | Master student | Uppsala (Sweden) |
