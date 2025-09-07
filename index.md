@@ -4,9 +4,9 @@ layout: default
 
 ```text
 We are a theoretical and computational chemistry group
-based in Uppsala, working on "ionically conducting 
-solutions" and "electrically charged interfaces"
-for energy storage applications.
+based in Uppsala, working on understanding and design
+"ionically conducting solutions" and "electrically 
+charged interfaces" for energy storage applications.
 ```
 
 ![group_photo](/assets/img/TeC_Jun_2024.jpg)
