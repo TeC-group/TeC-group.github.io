@@ -3,10 +3,10 @@ layout: default
 ---
 
 ```text
-We are a theoretical and computational chemistry group based in Uppsala,  
-working on "ionically  
-conducting solutions" and "electrically charged interfaces" for energy  
-storage applications.
+We are a theoretical and computational chemistry group
+based in Uppsala, working on "ionically conducting 
+solutions" and "electrically charged interfaces"
+for energy storage applications.
 ```
 
 ![group_photo](/assets/img/TeC_Jun_2024.jpg)
@@ -117,7 +117,7 @@ C. _Electron. Struct._, **2022**, 4: 014012, [DOI:10.1088/2516-1075/ac59ca](http
 We thank the financial supports from **Vetenskapsrådet (VR)**, **the
 European Research Council (ERC)** [DeepProton project](https://cordis.europa.eu/project/id/949012) and **the Wallenberg Initiative Materials Science for Sustainability (WISE)**.
 
-We are also part of the materials modelling community [TEOROO](https://github.com/Teoroo-CMC) and Ångström Advanced Battery Centre [ÅABC] (https://www.uu.se/en/department/chemistry-angstrom-laboratory/research/structural-chemistry/angstrom-advanced-battery-centre) based at Kemi-Ångström.
+We are also part of the materials modelling community [TEOROO](https://github.com/Teoroo-CMC) and Ångström Advanced Battery Centre [ÅABC](https://www.uu.se/en/department/chemistry-angstrom-laboratory/research/structural-chemistry/angstrom-advanced-battery-centre) based at Kemi-Ångström.
 
 
 ![Funding](/assets/img/Logo_banner.png)
