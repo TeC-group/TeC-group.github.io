@@ -4,7 +4,7 @@ layout: default
 
 ```text
 We are a theoretical and computational chemistry group
-based in Uppsala, working on understanding and design
+based in Uppsala, working on understanding and designing
 "ionically conducting solutions" and "electrically 
 charged interfaces" for sustainable energy applications.
 ```
