@@ -12,7 +12,7 @@ charged interfaces" for sustainable energy applications.
 ![group_photo](/assets/img/TeC_Jun_2024.jpg)
 
 (From left to right: Zhan-Yun, Aishwarya, Emily, Alicia, Lisanne, Aniello, Linnéa, and Jichen)
-# People :cn: :india: :netherlands: :sweden: :iceland: :estonia: 
+# People :cn: :india: :sweden: :iceland: :estonia: :vietnam:
 
 |Name             |  Role  |  Email | Note
 |:-------------|:------------------|:------|
@@ -23,9 +23,8 @@ charged interfaces" for sustainable energy applications.
 |[Jichen Li](https://www.katalog.uu.se/empinfo/?id=N23-1517) | PhD student | jichen.li@TeC | Polymer electrolytes (with Daniel Brandell) |
 |[Zhan-Yun Zhang](https://www.katalog.uu.se/empinfo/?id=N23-2102) | Postdoc | zhan-yun.zhang@TeC | ML2MD |
 |[Movaffaq Kateb](https://www.uu.se/kontakt-och-organisation/personal?query=N24-2523) | Senior postdoc | movaffaq.kateb@TeC  | Self-healing polymers (with Kristina Edström) |
-| [Floor de Vries](https://www.uu.se/kontakt-och-organisation/personal?query=N25-516) | Master student | N/A | Research training | 
 | [Kadri Muuga](https://www.uu.se/kontakt-och-organisation/personal?query=N25-329) | Master student | N/A | Thesis work |
-
+| [Thanh Trung Le](https://www.uu.se/kontakt-och-organisation/personal?query=N25-2277) | PhD student |  thanh-trung.le@TeC | ML2MD |
 :warning:  Replace "TeC" with "kemi.uu.se"
 
 # Research directions
