@@ -14,7 +14,8 @@ charged interfaces" for sustainable energy applications.
 (From left to right: Zhan-Yun, Aishwarya, Emily, Alicia, Lisanne, Aniello, Linnéa, and Jichen)
 # People :cn: :india: :sweden: :iceland: :estonia: :vietnam:
 
-|Name             |  Role  |  Email | Note |
+|Name             |  Role  |  Email | Note
+|:-------------|:------------------|:------|
 |[Chao Zhang](https://katalog.uu.se/profile/?id=N17-1304)  |  PI  | chao.zhang@TeC | [Biosketch](https://yacadeuro.org/zhang/) |
 |[Linnéa Andersson](https://katalog.uu.se/profile/?id=N21-323)| PhD student | linnea.andersson@TeC | Metal/electrolyte interfaces |
 |[Aishwarya Sudhama](https://www.katalog.uu.se/profile/?id=N22-2260) | PhD student | aishwarya.sudhama@TeC | Oxide/electrolyte interfaces |
