@@ -25,6 +25,7 @@ charged interfaces" for sustainable energy applications.
 |[Movaffaq Kateb](https://www.uu.se/kontakt-och-organisation/personal?query=N24-2523) | Senior postdoc | movaffaq.kateb@TeC  | Self-healing polymers (with Kristina Edström) |
 | [Kadri Muuga](https://www.uu.se/kontakt-och-organisation/personal?query=N25-329) | Master student | N/A | Thesis work |
 | [Thanh Trung Le](https://www.uu.se/kontakt-och-organisation/personal?query=N25-2277) | PhD student |  thanh-trung.le@TeC | ML2MD |
+
 :warning:  Replace "TeC" with "kemi.uu.se"
 
 # Research directions
