@@ -12,7 +12,7 @@ charged interfaces" for sustainable energy applications.
 ![group_photo](/assets/img/TeC_Jun_2024.jpg)
 
 (From left to right: Zhan-Yun, Aishwarya, Emily, Alicia, Lisanne, Aniello, Linnéa, and Jichen)
-# People :cn: :india: :sweden: :iceland: :estonia: :vietnam:
+# People :cn: :india: :sweden:  :estonia: :vietnam:
 
 |Name             |  Role  |  Email | Note
 |:-------------|:------------------|:------|
@@ -22,7 +22,6 @@ charged interfaces" for sustainable energy applications.
 |[Alicia van Hees](https://www.katalog.uu.se/empinfo/?id=N22-264) | PhD student | alicia.van-hees@TeC | Interfacial PCET | 
 |[Jichen Li](https://www.katalog.uu.se/empinfo/?id=N23-1517) | PhD student | jichen.li@TeC | Polymer electrolytes (with Daniel Brandell) |
 |[Zhan-Yun Zhang](https://www.katalog.uu.se/empinfo/?id=N23-2102) | Postdoc | zhan-yun.zhang@TeC | ML2MD |
-|[Movaffaq Kateb](https://www.uu.se/kontakt-och-organisation/personal?query=N24-2523) | Senior postdoc | movaffaq.kateb@TeC  | Self-healing polymers (with Kristina Edström) |
 | [Kadri Muuga](https://www.uu.se/kontakt-och-organisation/personal?query=N25-329) | Master student | N/A | Thesis work |
 | [Thanh Trung Le](https://www.uu.se/kontakt-och-organisation/personal?query=N25-2277) | PhD student |  thanh-trung.le@TeC | ML2MD |
 
@@ -88,6 +87,7 @@ C. _Electron. Struct._, **2022**, 4: 014012, [DOI:10.1088/2516-1075/ac59ca](http
 
 |Name             |  Country | Role  |  Current Position/Location |
 |:-------------|:------------------|
+|Movaffaq Kateb | :iceland: Senor postdoc | Gothenburg (Sweden) |
 |Lisanne Knijff |  :netherlands: | PhD student  | System administrator@KTH (Sweden)|
 |Aniello  Langella |  :it: | Visiting PhD student (with Daniel Brandell)  | PhD student@UniNa (Italy)|
 |Harish Gudla  |  :india: | Postdoc (with Kristina Edström)  | Computational materials scientist@Compular (Sweden)|
