@@ -120,7 +120,7 @@ European Research Council (ERC)** [DeepProton project](https://cordis.europa.eu/
 We are also part of the materials modelling community [TEOROO](https://github.com/Teoroo-CMC) and Ångström Advanced Battery Centre [ÅABC](https://www.uu.se/en/department/chemistry-angstrom-laboratory/research/structural-chemistry/angstrom-advanced-battery-centre) based at Kemi-Ångström.
 
 
-![Funding](/assets/img/Logo_banner.png)
+![Funding](/assets/img/Logo_banner_new.png)
 
 ```text
 "The drive for excellence relies on both competitive 
