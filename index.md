@@ -87,7 +87,7 @@ C. _Electron. Struct._, **2022**, 4: 014012, [DOI:10.1088/2516-1075/ac59ca](http
 
 |Name             |  Country | Role  |  Current Position/Location |
 |:-------------|:------------------|
-|Movaffaq Kateb | :iceland: | Senor postdoc | Gothenburg (Sweden) |
+|Movaffaq Kateb | :iceland: | Senior postdoc | Gothenburg (Sweden) |
 |Lisanne Knijff |  :netherlands: | PhD student  | System administrator@KTH (Sweden)|
 |Aniello  Langella |  :it: | Visiting PhD student (with Daniel Brandell)  | PhD student@UniNa (Italy)|
 |Harish Gudla  |  :india: | Postdoc (with Kristina Edström)  | Computational materials scientist@Compular (Sweden)|
@@ -104,7 +104,7 @@ C. _Electron. Struct._, **2022**, 4: 014012, [DOI:10.1088/2516-1075/ac59ca](http
 |Majid Shahbabaei | :iran: | Postdoc | Assistant professor@BNUT (Iran) | 
 |Omar Malik | :united_arab_emirates:| Summer intern | Master student@UU (Sweden) |
 |Linnéa Andersson | :sweden: | Research assistant | PhD student@UU (Sweden) |
-|Florian Dietrich | :de: | Master student | PhD student@UCL (UK)|
+|Florian Dietrich | :de: | Master student | Postdoc@IIT Genoa (Italy)|
 |Mei Jia | :cn: | Visiting PhD student | Lecturer@SQNU (China) |
 |Lisanne Knijff | :netherlands: | Master student | PhD student@UU (Sweden)|
 |Supho Phunnarungsi | :thailand: | Summer intern | Bangkok (Thailand) |
