@@ -91,7 +91,7 @@ C. _Electron. Struct._, **2022**, 4: 014012, [DOI:10.1088/2516-1075/ac59ca](http
 |Lisanne Knijff |  :netherlands: | PhD student  | System administrator@KTH (Sweden)|
 |Aniello  Langella |  :it: | Visiting PhD student (with Daniel Brandell)  | PhD student@UniNa (Italy)|
 |Harish Gudla  |  :india: | Postdoc (with Kristina Edström)  | Computational materials scientist@Compular (Sweden)|
-|Emily Azzopardi | :malta: | Master student | Uppsala (Sweden) |
+|Emily Azzopardi | :malta: | Master student | IT Auditor@Deloitte (Malta) |
 |Yunqi Shao | :cn: | PhD student | Research engineer@Chalmers (Sweden) |
 |Thomas Dufils | :fr: | Postdoc | Teacher@Lycée Albert Einstein (France) |
 |Matthew Chagnot | :us: | Visiting PhD student | PhD student@NCSU (US) |
