@@ -4,7 +4,7 @@ layout: default
 
 ```text
 We are a theoretical and computational chemistry group
-based in Uppsala (Sweden), working to understand and design
+based in Uppsala, working to understand and design
 "ionically conducting solutions" and "electrically 
 charged interfaces" for sustainable energy applications.
 ```
@@ -12,7 +12,7 @@ charged interfaces" for sustainable energy applications.
 ![group_photo](/assets/img/TeC_Jun_2024.jpg)
 
 (From left to right: Zhan-Yun, Aishwarya, Emily, Alicia, Lisanne, Aniello, Linnéa, and Jichen)
-# People :cn: :india: :sweden:  :estonia: :vietnam:
+# People :cn: :india: :sweden: :vietnam:
 
 |Name             |  Role  |  Email | Note
 |:-------------|:------------------|:------|
@@ -23,8 +23,7 @@ charged interfaces" for sustainable energy applications.
 |[Jichen Li](https://www.katalog.uu.se/empinfo/?id=N23-1517) | PhD student | jichen.li@TeC | Polymer electrolytes (with Daniel Brandell) |
 |[Zhan-Yun Zhang](https://www.katalog.uu.se/empinfo/?id=N23-2102) | Postdoc | zhan-yun.zhang@TeC | ML2MD |
 | [Thanh Trung Le](https://www.uu.se/kontakt-och-organisation/personal?query=N25-2277) | PhD student |  thanh-trung.le@TeC | ML2MD |
-| [Narayan Deep Singh](https://www.uu.se/kontakt-och-organisation/personal?query=N26-1682) | PhD stude\
-nt |  narayan-deep.singh@TeC | AFLOW |
+| [Narayan Deep Singh](https://www.uu.se/kontakt-och-organisation/personal?query=N26-1682) | PhD student |  narayan-deep.singh@TeC | AFLOW |
 
 
 :warning:  Replace "TeC" with "kemi.uu.se"
@@ -89,7 +88,7 @@ C. _Electron. Struct._, **2022**, 4: 014012, [DOI:10.1088/2516-1075/ac59ca](http
 
 |Name             |  Country | Role  |  Current Position/Location |
 |:-------------|:------------------|
-|Kadri Muuga | :sweden: | Master student | PhD student@UU (Sweden)|
+|Kadri Muuga | :estonia: | Master student | PhD student@UU (Sweden)|
 |Movaffaq Kateb | :iceland: | Senior postdoc | Gothenburg (Sweden) |
 |Lisanne Knijff |  :netherlands: | PhD student  | HPC system administrator@KTH (Sweden)|
 |Aniello  Langella |  :it: | Visiting PhD student (with Daniel Brandell)  | PhD student@UniNa (Italy)|
