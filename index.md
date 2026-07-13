@@ -4,7 +4,7 @@ layout: default
 
 ```text
 We are a theoretical and computational chemistry group
-based in Uppsala, working to understand and design
+based in Uppsala (Sweden), working to understand and design
 "ionically conducting solutions" and "electrically 
 charged interfaces" for sustainable energy applications.
 ```
@@ -22,8 +22,10 @@ charged interfaces" for sustainable energy applications.
 |[Alicia van Hees](https://www.katalog.uu.se/empinfo/?id=N22-264) | PhD student | alicia.van-hees@TeC | Interfacial PCET | 
 |[Jichen Li](https://www.katalog.uu.se/empinfo/?id=N23-1517) | PhD student | jichen.li@TeC | Polymer electrolytes (with Daniel Brandell) |
 |[Zhan-Yun Zhang](https://www.katalog.uu.se/empinfo/?id=N23-2102) | Postdoc | zhan-yun.zhang@TeC | ML2MD |
-| [Kadri Muuga](https://www.uu.se/kontakt-och-organisation/personal?query=N25-329) | Master student | N/A | Thesis work |
 | [Thanh Trung Le](https://www.uu.se/kontakt-och-organisation/personal?query=N25-2277) | PhD student |  thanh-trung.le@TeC | ML2MD |
+| [Narayan Deep Singh](https://www.uu.se/kontakt-och-organisation/personal?query=N26-1682) | PhD stude\
+nt |  narayan-deep.singh@TeC | AFLOW |
+
 
 :warning:  Replace "TeC" with "kemi.uu.se"
 
@@ -87,10 +89,11 @@ C. _Electron. Struct._, **2022**, 4: 014012, [DOI:10.1088/2516-1075/ac59ca](http
 
 |Name             |  Country | Role  |  Current Position/Location |
 |:-------------|:------------------|
+|Kadri Muuga | :sweden: | Master student | PhD student@UU (Sweden)|
 |Movaffaq Kateb | :iceland: | Senior postdoc | Gothenburg (Sweden) |
 |Lisanne Knijff |  :netherlands: | PhD student  | HPC system administrator@KTH (Sweden)|
 |Aniello  Langella |  :it: | Visiting PhD student (with Daniel Brandell)  | PhD student@UniNa (Italy)|
-|Harish Gudla  |  :india: | Postdoc (with Kristina Edström)  | Computational materials scientist@Compular (Sweden)|
+|Harish Gudla  |  :india: | Postdoc (with Kristina Edström)  | CTO@Compular (Sweden)|
 |Emily Azzopardi | :malta: | Master student | IT Auditor@Deloitte (Malta) |
 |Yunqi Shao | :cn: | PhD student | Research engineer@Chalmers (Sweden) |
 |Thomas Dufils | :fr: | Postdoc | Teacher@Lycée Albert Einstein (France) |
