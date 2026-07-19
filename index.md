@@ -70,7 +70,7 @@ us to carry out ML-accelerated modelling and design of electrochemical systems [
 
 [5] Gudla, H., Edström, K. and Zhang<sup>*</sup>, C.  _ACS Mater. Au_, **2024**, 4: 300 [DOI: 10.1021/acsmaterialsau.3c00098](https://doi.org/10.1021/acsmaterialsau.3c00098)
 
-[6] van Hees<sup>†</sup>, A., Zhang<sup>†</sup>, Z.-Y. and Zhang<sup>*</sup>, C.  _ChemRxiv_, **2026** [DOI: 10.26434/chemrxiv.15005472/v1](https://doi.org/10.26434/chemrxiv.15005472/v1)
+[6] van Hees<sup>†</sup>, A., Zhang<sup>†</sup>, Z.-Y., Andersson, L. and Zhang<sup>*</sup>, C.  _ChemRxiv_, **2026** [DOI: 10.26434/chemrxiv.15005472/v1](https://doi.org/10.26434/chemrxiv.15005472/v1)
 
 [7] Shao<sup>†</sup>, Y., Andersson<sup>†</sup>, L., Knijff, L. and Zhang<sup>*</sup>,
 C. _Electron. Struct._, **2022**, 4: 014012, [DOI:10.1088/2516-1075/ac59ca](https://doi.org/10.1088/2516-1075/ac59ca)
