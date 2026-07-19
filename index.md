@@ -56,8 +56,7 @@ particular, we have designed and implemented an equivariant and
 high-performing graph convolutional neural network architecture PiNet2
 for predicting potential energy surface, polarization, and response
 charge (to the voltage bias) [7-9]. <img align="right" width="118" height="50" src="/assets/img/PiNN_logo.png"> This allows
-us to carry out the atomistic simulation of electrochemical systems
-powered by ML models [10].
+us to carry out ML-accelerated modelling and design of electrochemical systems [6,10].
 
 # Recent publications
 
@@ -67,21 +66,21 @@ powered by ML models [10].
 
 [3] Andersson, L., Sprik, M., Hutter, J. and Zhang<sup>*</sup>, C. _Angew. Chem. Int. Ed._, **2025**, 64: e202413614, [DOI: 10.1002/anie.202413614](https://doi.org/10.1002/anie.202413614)
 
-[4] Gudla, H., Shao, Y., Phunnarungsi, S., Brandell, D. and Zhang<sup>*</sup>, C. _J. Phys. Chem. Lett._, **2021**, 12: 8460, [DOI: 10.1021/acs.jpclett.1c02474](https://doi.org/10.1021/acs.jpclett.1c02474)
+[4] Shao, Y., Gudla, H., Brandell, D. and Zhang<sup>*</sup>, C. _J. Am. Chem. Soc._, **2022**, 144: 7583, [DOI: 10.1021/jacs.2c02389](https://doi.org/10.1021/jacs.2c02389)
 
-[5] Shao, Y., Gudla, H., Brandell, D. and Zhang<sup>*</sup>, C. _J. Am. Chem. Soc._, **2022**, 144: 7583, [DOI: 10.1021/jacs.2c02389](https://doi.org/10.1021/jacs.2c02389)
+[5] Gudla, H., Edström, K. and Zhang<sup>*</sup>, C.  _ACS Mater. Au_, **2024**, 4: 300 [DOI: 10.1021/acsmaterialsau.3c00098](https://doi.org/10.1021/acsmaterialsau.3c00098)
 
-[6] Gudla, H., Edström, K. and Zhang<sup>*</sup>, C.  _ACS Mater. Au_, **2024**, 4: 300 [DOI: 10.1021/acsmaterialsau.3c00098](https://doi.org/10.1021/acsmaterialsau.3c00098)
+[6] van Hees<sup>†</sup>, A., Zhang<sup>†</sup>, Z.-Y. and Zhang<sup>*</sup>, C.  _ChemRxiv_, **2026** [DOI: 10.26434/chemrxiv.15005472/v1](https://doi.org/10.26434/chemrxiv.15005472/v1)
 
-[7] Knijff, L. and Zhang<sup>*</sup>, C. _Mach. Learn.: Sci. Technol._, **2021**, 2: 03LT03, [DOI: 10.1088/2632-2153/ac0123](https://doi.org/10.1088/2632-2153/ac0123) (Letter)
-
-[8] Shao<sup>†</sup>, Y., Andersson<sup>†</sup>, L., Knijff, L. and Zhang<sup>*</sup>,
+[7] Shao<sup>†</sup>, Y., Andersson<sup>†</sup>, L., Knijff, L. and Zhang<sup>*</sup>,
 C. _Electron. Struct._, **2022**, 4: 014012, [DOI:10.1088/2516-1075/ac59ca](https://doi.org/10.1088/2516-1075/ac59ca)
 (Invited paper)
 
-[9] Dufils, T., Knjiff, L., Shao, Y. and Zhang<sup>*</sup>, C. _J. Chem. Theory Comput._, **2023**, 19: 5199, [DOI: 10.1021/acs.jctc.3c00359](https://doi.org/10.1021/acs.jctc.3c00359)
+[8] Dufils, T., Knjiff, L., Shao, Y. and Zhang<sup>*</sup>, C. _J. Chem. Theory Comput._, **2023**, 19: 5199, [DOI: 10.1021/acs.jctc.3c00359](https://doi.org/10.1021/acs.jctc.3c00359)
 
-[10] Li<sup>†</sup>, J.,  Knijff<sup>†</sup>, L., Zhang, Z.-Y., Andersson, L. and Zhang<sup>*</sup>, C. _J. Chem. Theory Comput._, **2025**, 21: 1382, [DOI: 10.1021/acs.jctc.4c01570](https://doi.org/10.1021/acs.jctc.4c01570)
+[9] Li<sup>†</sup>, J.,  Knijff<sup>†</sup>, L., Zhang, Z.-Y., Andersson, L. and Zhang<sup>*</sup>, C. _J. Chem. Theory Comput._, **2025**, 21: 1382, [DOI: 10.1021/acs.jctc.4c01570](https://doi.org/10.1021/acs.jctc.4c01570)
+
+[10] Zhang, Z.-Y., Mercado, R., Le, T. T., and Zhang<sup>*</sup>, C.  _ACS Nano_, **2026** [DOI: doi.org/10.1021/acsnano.6c06255](https://doi.org/10.1021/acsnano.6c06255)
 
 
 # Alumni
