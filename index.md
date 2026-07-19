@@ -80,7 +80,7 @@ C. _Electron. Struct._, **2022**, 4: 014012, [DOI:10.1088/2516-1075/ac59ca](http
 
 [9] Li<sup>†</sup>, J.,  Knijff<sup>†</sup>, L., Zhang, Z.-Y., Andersson, L. and Zhang<sup>*</sup>, C. _J. Chem. Theory Comput._, **2025**, 21: 1382, [DOI: 10.1021/acs.jctc.4c01570](https://doi.org/10.1021/acs.jctc.4c01570)
 
-[10] Zhang, Z.-Y., Mercado, R., Le, T. T., and Zhang<sup>*</sup>, C.  _ACS Nano_, **2026** [DOI: doi.org/10.1021/acsnano.6c06255](https://doi.org/10.1021/acsnano.6c06255)
+[10] Zhang, Z.-Y., Mercado, R., Le, T. T. and Zhang<sup>*</sup>, C.  _ACS Nano_, **2026** [DOI: doi.org/10.1021/acsnano.6c06255](https://doi.org/10.1021/acsnano.6c06255)
 
 
 # Alumni
