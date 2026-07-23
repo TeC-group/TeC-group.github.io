@@ -24,7 +24,7 @@ charged interfaces" for sustainable energy applications.
 |[Zhan-Yun Zhang](https://www.katalog.uu.se/empinfo/?id=N23-2102) | Postdoc | zhan-yun.zhang@TeC | ML2MD |
 | [Thanh Trung Le](https://www.uu.se/kontakt-och-organisation/personal?query=N25-2277) | PhD student |  thanh-trung.le@TeC | ML2MD |
 | [Narayan Deep Singh](https://www.uu.se/kontakt-och-organisation/personal?query=N26-1682) | PhD student |  narayan-deep.singh@TeC | AFLOW |
-
+| [Chen Lei](https://www.uu.se/en/contact-and-organisation/staff?query=N26-1755) | Postdoc |  chen.lei@TeC | AFLOW |
 
 :warning:  Replace "TeC" with "kemi.uu.se"
 
