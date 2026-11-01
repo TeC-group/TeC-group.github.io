@@ -12,7 +12,7 @@ charged interfaces" for sustainable energy applications.
 ![group_photo](/assets/img/TeC_2026_09.jpeg)
 
 (From left to right: Zhan-Yun, Aishwarya, Emily, Alicia, Lisanne, Aniello, Linnéa, and Jichen)
-# People :cn: :india: :sweden: :vietnam: :Italy:
+# People :cn: :india: :sweden: :vietnam: :italy:
 
 |Name             |  Role  |  Email | Note
 |:-------------|:------------------|:------|
