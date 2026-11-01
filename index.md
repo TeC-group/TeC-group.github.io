@@ -12,7 +12,7 @@ charged interfaces" for sustainable energy applications.
 ![group_photo](/assets/img/TeC_2026_09.jpeg)
 
 (From left to right: Chao, Zhan-Yun, Yue, Alicia, Jichen, Trung, Hongyan, Narayan, Aishwarya, Chen)
-# People :cn: :india: :sweden: :vietnam: 🇮🇹 
+# People :cn: :india: :sweden: :vietnam: :it:
 
 |Name             |  Role  |  Email | Note
 |:-------------|:------------------|:------|
@@ -80,7 +80,7 @@ us to carry out ML-accelerated modelling and design of electrochemical systems [
 
 [9] Zhang, Z.-Y., Mercado, R., Le, T. T. and Zhang<sup>*</sup>, C.  _ACS Nano_, **2026**, 20: 20714, [DOI: doi.org/10.1021/acsnano.6c06255](https://doi.org/10.1021/acsnano.6c06255)
 
-[10] van Hees<sup>†</sup>, A., Zhang<sup>†</sup>, Z.-Y., Andersson, L. and Zhang<sup>*</sup>, C.  _ChemRxiv_, **2026** [DOI: 10.26434/chemrxiv.15005472/v1](https://doi.org/10.26434/chemrxiv.15005472/v1)
+[10] van Hees<sup>†</sup>, A., Zhang<sup>†</sup>, Z.-Y., Andersson, L. and Zhang<sup>*</sup>, C.  _Adv. Sci._, **2026** [DOI: doi.org/10.1002/advs.78513](https://doi.org/10.1002/advs.78513)
 
 
 # Alumni
