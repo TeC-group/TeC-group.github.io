@@ -11,8 +11,8 @@ charged interfaces" for sustainable energy applications.
 
 ![group_photo](/assets/img/TeC_2026_09.jpeg)
 
-(From left to right: Zhan-Yun, Aishwarya, Emily, Alicia, Lisanne, Aniello, Linnéa, and Jichen)
-# People :cn: :india: :sweden: :vietnam: :italy:
+(From left to right: Chao, Zhan-Yun, Yue, Alicia, Jichen, Trung, Hongyan, Narayan, Aishwarya, Chen)
+# People :cn: :india: :sweden: :vietnam: 🇮🇹 
 
 |Name             |  Role  |  Email | Note
 |:-------------|:------------------|:------|
@@ -26,7 +26,7 @@ charged interfaces" for sustainable energy applications.
 | [Narayan Deep Singh](https://www.uu.se/kontakt-och-organisation/personal?query=N26-1682) | PhD student |  narayan-deep.singh@TeC | AFLOW |
 | [Chen Lei](https://www.uu.se/en/contact-and-organisation/staff?query=N26-1755) | Postdoc |  chen.lei@TeC | AFLOW |
 | [Yue Zhou](https://www.uu.se/kontakt-och-organisation/personal?query=N25-1303) | Research assistant |  yue.zhou@TeC | ML2MD |
-| [Gabriele Amante](https://www.uu.se/kontakt-och-organisation/personal?query=N26-2154) | Visiting PhD student |  gabriele.amante@TeC | Water/air interfaces |
+| [Gabriele Amante](https://www.uu.se/kontakt-och-organisation/personal?query=N26-2154) | Visiting PhD student |  gabriele.amante@cnr.it | Water/air interfaces |
 
 :warning:  Replace "TeC" with "kemi.uu.se"
 
